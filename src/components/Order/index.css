@@ -1,0 +1,8 @@
+.order{
+    margin: 40px;
+    margin-right: 0px;
+    display:grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 40px;
+    column-gap: 0px;
+}

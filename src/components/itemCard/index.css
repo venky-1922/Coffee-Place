@@ -1,0 +1,17 @@
+.item{
+    background-color: #f9f9f9;
+    margin: 10px;
+    border:none !important;
+    width: 400px;
+    height: 250px;
+    border-radius: 8px;
+}
+.first-part{
+    display: flex;
+    margin: 15px;
+    margin-bottom: 60px;
+}
+.second-part{
+    display: flex;
+    justify-content: space-around   ;
+}
