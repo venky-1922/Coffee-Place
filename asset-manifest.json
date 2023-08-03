@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Coffee-Place/static/css/main.a896d19d.css",
+    "main.js": "/Coffee-Place/static/js/main.27e711e2.js",
+    "static/js/787.d83f0b62.chunk.js": "/Coffee-Place/static/js/787.d83f0b62.chunk.js",
+    "static/media/coffeeItem.svg": "/Coffee-Place/static/media/coffeeItem.ff374f90bcccc32ac08a5a85e42b47c4.svg",
+    "static/media/coffee.svg": "/Coffee-Place/static/media/coffee.0a7b1413e3017c120f543ef00b4e6b6b.svg",
+    "static/media/1389344_95-removebg-preview.png": "/Coffee-Place/static/media/1389344_95-removebg-preview.906ed4391000ef23dfdd.png",
+    "static/media/montserrat-latin-400-normal.woff": "/Coffee-Place/static/media/montserrat-latin-400-normal.0f1794a79a689a577c2a.woff",
+    "static/media/montserrat-latin-ext-400-normal.woff": "/Coffee-Place/static/media/montserrat-latin-ext-400-normal.688aee1c9dd2450dd804.woff",
+    "static/media/montserrat-latin-400-normal.woff2": "/Coffee-Place/static/media/montserrat-latin-400-normal.acb6629fe45c43ad5d8b.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff": "/Coffee-Place/static/media/montserrat-cyrillic-ext-400-normal.4ae7c395ed6c62e4293a.woff",
+    "static/media/montserrat-cyrillic-400-normal.woff": "/Coffee-Place/static/media/montserrat-cyrillic-400-normal.be1d5ffb1cc104d1437d.woff",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/Coffee-Place/static/media/montserrat-latin-ext-400-normal.0204ec08a4b574088f02.woff2",
+    "static/media/share.png": "/Coffee-Place/static/media/share.29ce786d77ad39a87225.png",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/Coffee-Place/static/media/montserrat-cyrillic-ext-400-normal.bbf9e820a2563aac0d8b.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/Coffee-Place/static/media/montserrat-cyrillic-400-normal.e5c5c19c23e370a342c8.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff": "/Coffee-Place/static/media/montserrat-vietnamese-400-normal.f36d8e9e08c584303451.woff",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/Coffee-Place/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
+    "index.html": "/Coffee-Place/index.html",
+    "main.a896d19d.css.map": "/Coffee-Place/static/css/main.a896d19d.css.map",
+    "main.27e711e2.js.map": "/Coffee-Place/static/js/main.27e711e2.js.map",
+    "787.d83f0b62.chunk.js.map": "/Coffee-Place/static/js/787.d83f0b62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a896d19d.css",
+    "static/js/main.27e711e2.js"
+  ]
+}
