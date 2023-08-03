@@ -3,6 +3,29 @@
    border: 2px solid black;
    /* width: fit-content; */
 }
+/* Add styling for the table */
+.cart .MuiTable-root {
+   border-collapse: collapse;
+   width: 100%;
+ }
+ 
+ /* Add styling for table head cells */
+ .cart .MuiTableHead-root th {
+   border: 1px solid #ccc;
+   padding: 8px;
+ }
+ 
+ /* Add styling for table body cells */
+ .cart .MuiTableCell-root {
+   border: 1px solid #ccc;
+   padding: 8px;
+ }
+ 
+ /* Add specific styling for the total row */
+ .cart .total-row {
+   font-weight: bold;
+   font-size: 15px;
+ }
 .servings{
    display: flex;
 }
