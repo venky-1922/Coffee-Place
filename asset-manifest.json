@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Coffee-Place/static/css/main.a896d19d.css",
-    "main.js": "/Coffee-Place/static/js/main.e3e761bb.js",
+    "main.js": "/Coffee-Place/static/js/main.843b240c.js",
     "static/js/787.d83f0b62.chunk.js": "/Coffee-Place/static/js/787.d83f0b62.chunk.js",
     "static/media/coffeeItem.svg": "/Coffee-Place/static/media/coffeeItem.ff374f90bcccc32ac08a5a85e42b47c4.svg",
     "static/media/coffee.svg": "/Coffee-Place/static/media/coffee.0a7b1413e3017c120f543ef00b4e6b6b.svg",
@@ -19,11 +19,11 @@
     "static/media/montserrat-vietnamese-400-normal.woff2": "/Coffee-Place/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
     "index.html": "/Coffee-Place/index.html",
     "main.a896d19d.css.map": "/Coffee-Place/static/css/main.a896d19d.css.map",
-    "main.e3e761bb.js.map": "/Coffee-Place/static/js/main.e3e761bb.js.map",
+    "main.843b240c.js.map": "/Coffee-Place/static/js/main.843b240c.js.map",
     "787.d83f0b62.chunk.js.map": "/Coffee-Place/static/js/787.d83f0b62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a896d19d.css",
-    "static/js/main.e3e761bb.js"
+    "static/js/main.843b240c.js"
   ]
 }
