@@ -38,7 +38,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename='/Coffee-Place'>
        <div className="App">
         <Navbar cartItems={cartItems}/>
        <Routes>
@@ -46,7 +46,7 @@ function App() {
           </Route>
            <Route exact path="/cart" element={<Cart items={items} />}
            ></Route>
-          <Route exact path="/" element={<Home/> }> 
+          <Route exact path="/Coffee-Place" element={<Home/> }> 
            </Route>
           </Routes>
           </div>
